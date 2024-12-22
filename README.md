@@ -4,9 +4,9 @@
 import transformers 
 from transformers import pipeline
 import torch <br>
-####### transformers: This library provides state-of-the-art pre-trained models for natural language processing tasks. 
-####### pipeline: A utility function in the transformers library that simplifies the use of pre-trained models. 
-####### torch: The PyTorch library, which is used as the backend for the transformer models. 
+###### transformers: This library provides state-of-the-art pre-trained models for natural language processing tasks. <br>
+###### pipeline: A utility function in the transformers library that simplifies the use of pre-trained models. <br>
+###### torch: The PyTorch library, which is used as the backend for the transformer models. <br>
 
 ##### Creating a Sentiment Analysis Pipeline:
 classifier = pipeline('sentiment-analysis')
