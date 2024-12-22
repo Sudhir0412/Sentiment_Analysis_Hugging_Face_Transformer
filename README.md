@@ -1,8 +1,8 @@
 ## Sentiment analysis with Hugging Face Transformer(pretrained model)
 
 ##### Importing the Required Libraries:
-import transformers 
-from transformers import pipeline
+import transformers <br>
+from transformers import pipeline <br>
 import torch <br>
 ###### transformers: This library provides state-of-the-art pre-trained models for natural language processing tasks. <br>
 ###### pipeline: A utility function in the transformers library that simplifies the use of pre-trained models. <br>
